@@ -1,0 +1,7 @@
+APP_NAME=StreamVibe Pro
+APP_ENV=production
+APP_DEBUG=false
+APP_URL=https://mon-site.com
+DB_DATABASE=streamvibe
+DB_USERNAME=root
+DB_PASSWORD=
